@@ -1,6 +1,6 @@
-package level1_ex2.models;
+package level1_ex2.model;
 
-public class Worker {
+abstract class Worker {
 
     protected String firstName;
     protected String lastName;

@@ -1,6 +1,4 @@
-package level1_ex2.models;
-
-import level1_ex2.models.Worker;
+package level1_ex2.model;
 
 public class OnlineWorker extends Worker {
 

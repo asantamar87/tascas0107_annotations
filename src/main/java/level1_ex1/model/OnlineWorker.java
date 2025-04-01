@@ -1,4 +1,4 @@
-package level1_ex1.models;
+package level1_ex1.model;
 
 public class OnlineWorker extends Worker {
 

@@ -1,6 +1,6 @@
-package level1_ex1.models;
+package level1_ex1.model;
 
-public class Worker {
+abstract class Worker {
 
     private String firstName;
     private String lastName;
